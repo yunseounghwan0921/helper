@@ -51,19 +51,3 @@ a {
     margin-top: 90px;
 }
 
-img {
-    width: 450px;
-    height: 320px;
-    float: right;
-    margin-top: -400px;
-    margin-right: 530px;
-    display: block;
-}
-
-.ju {
-    display: block;
-    text-align: right;
-    margin-right: 690px;
-    margin-top: -70px;
-    color: blue;
-}
