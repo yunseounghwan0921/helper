@@ -41,7 +41,8 @@ input {
 }
 
 a {
-    color: green;
+    text-decoration: none;
+    color: black;
 }
 
 .class-site {
